@@ -1,89 +1,13 @@
-{
-  "version": "1.0.0",
-  "exportedAt": "2026-05-08T01:26:43.529Z",
-  "profile": {
-    "title": "Dr. Luis Linares",
-    "subtitle": "Soy un Médico Cirujano, aprendiendo el diseño de Aplicaciones",
-    "currentWork": "",
-    "currentLearn": "Aprendizaje de Flutter y Visual Studio",
-    "collaborateOn": "",
-    "helpWith": "",
-    "ama": "",
-    "contact": "llinaresm@gmail.com",
-    "funFact": "",
-    "visitorsBadge": true,
-    "badgeStyle": "flat",
-    "badgeColor": "0e75b6",
-    "badgeLabel": "Profile views",
-    "githubProfileTrophy": false,
-    "githubStats": false,
-    "githubStatsOptions": {
-      "theme": "",
-      "titleColor": "",
-      "textColor": "",
-      "bgColor": "",
-      "hideBorder": false,
-      "cacheSeconds": null,
-      "locale": "en"
-    },
-    "topLanguages": false,
-    "topLanguagesOptions": {
-      "theme": "",
-      "titleColor": "",
-      "textColor": "",
-      "bgColor": "",
-      "hideBorder": false,
-      "cacheSeconds": null,
-      "locale": "en"
-    },
-    "streakStats": false,
-    "streakStatsOptions": {
-      "theme": ""
-    },
-    "devDynamicBlogs": false,
-    "mediumDynamicBlogs": false,
-    "rssDynamicBlogs": false
-  },
-  "links": {
-    "currentWork": "",
-    "collaborateOn": "",
-    "helpWith": "",
-    "portfolio": "",
-    "blog": "",
-    "resume": ""
-  },
-  "social": {
-    "github": "fallo de linaresmo",
-    "dev": "",
-    "linkedin": "",
-    "codepen": "",
-    "stackoverflow": "",
-    "kaggle": "",
-    "codesandbox": "",
-    "fb": "",
-    "instagram": "",
-    "twitter": "",
-    "dribbble": "",
-    "behance": "",
-    "medium": "",
-    "youtube": "",
-    "codechef": "",
-    "hackerrank": "",
-    "codeforces": "",
-    "leetcode": "",
-    "topcoder": "",
-    "hackerearth": "",
-    "geeks_for_geeks": "",
-    "discord": "",
-    "rssurl": "",
-    "twitterBadge": false
-  },
-  "support": {
-    "buyMeACoffee": ""
-  },
-  "skills": [
-    "android",
-    "illustrator",
-    "photoshop"
-  ]
-}
+<h1 align="center">Hola soy el Dr. Luis Linares</h1>
+<h3 align="center">Soy un Especialista en Cirugía, me interesa mucho el lenguaje de Programación</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fallodelinaresmo&label=Profile%20views&color=0e75b6&style=flat" alt="fallodelinaresmo" /> </p>
+
+- 🔭 En éste momento me encuentro aprendiendo **CREACION DE APLICACIONES**
+
+<h3 align="left">Conéctate conmigo:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Idiomas y herramientas:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" ancho="40" alto="40"/> </a> </p>
